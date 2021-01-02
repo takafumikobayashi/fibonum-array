@@ -1,1 +1,1 @@
-# npm_fibonum-array
+# fibonum-array
