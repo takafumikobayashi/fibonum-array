@@ -12,22 +12,22 @@ npm install --save fibonum-array
 ### This library provide two methods.
 
 ~~~js
-let fibonum = require('fibonum-array')
+import { getByElementCount, getByIndexValue } from 'fibonum-array'
 
-let array = fibomun.getByElementCount( params );  // Get Fibonacci Number As many elements as you specify
-let number = fibomun.getByIndexvalue( params );  // Get Fibonacci Number As Index number you specified
+let array = getByElementCount( params );  // Get Fibonacci Number As many elements as you specify
+let number = getByIndexvalue( params );  // Get Fibonacci Number As Index number you specified
 ~~~
 
 
 ### Example:
 ~~~js
-let fibonum = require('fibonum-array')
+import { getByElementCount, getByIndexValue} from 'fibonum-array'
 ~~~
 
 Get Fibonacci Number Array
 ~~~js
 let array = new Array
-array = fibonum.getByElementCount(5);
+array = getByElementCount(5);
 console.log(array);
 ~~~
 reult:
@@ -38,7 +38,7 @@ reult:
 Get Fibonacci Number you specified
 ~~~js
 let number = new Number
-number = fibonum.getByIndexValue(50);
+number = getByIndexValue(50);
 console.log(number);
 ~~~
 reult:

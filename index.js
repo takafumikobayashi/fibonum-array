@@ -1,5 +1,3 @@
-"use strict"
-
 function getByElementCount(cnt) {
     let fibonacci = new Array;
     let before_number2 = 0
