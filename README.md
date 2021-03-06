@@ -1,4 +1,4 @@
-# fibonum-array
+# fibonum-array [![Build Status](https://travis-ci.org/takafumikobayashi/fibonum-array.svg?branch=master)](https://travis-ci.org/takafumikobayashi/fibonum-array)
 
 ## Installation
 
