@@ -1,4 +1,5 @@
-# fibonum-array [![Build Status](https://travis-ci.org/takafumikobayashi/fibonum-array.svg?branch=master)](https://travis-ci.org/takafumikobayashi/fibonum-array)
+# fibonum-array
+[![Build Status](https://travis-ci.org/takafumikobayashi/fibonum-array.svg?branch=master)](https://travis-ci.org/takafumikobayashi/fibonum-array) [![Maintainability](https://api.codeclimate.com/v1/badges/27e0cc550dec845b252b/maintainability)](https://codeclimate.com/github/takafumikobayashi/fibonum-array/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/27e0cc550dec845b252b/test_coverage)](https://codeclimate.com/github/takafumikobayashi/fibonum-array/test_coverage)
 
 ## Installation
 
