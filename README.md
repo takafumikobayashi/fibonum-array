@@ -15,7 +15,7 @@ npm install --save fibonum-array
 import { getByElementCount, getByIndexValue } from 'fibonum-array'
 
 let array = getByElementCount( params );  // Get Fibonacci Number As many elements as you specify
-let number = getByIndexvalue( params );  // Get Fibonacci Number As Index number you specified
+let number = getByIndexValue( params );  // Get Fibonacci Number As Index number you specified
 ~~~
 
 
