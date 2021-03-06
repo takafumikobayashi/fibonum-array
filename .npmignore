@@ -1,6 +1,9 @@
 # Test
 test/
 
+# .travis.yml
+.travis.yml
+
 # Logs
 logs
 *.log
